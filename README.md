@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chi Thanh
+- 👋 Hi, I’m Mai Chi Thanh
 - 👀 I’m interested in Data Science (DS), Machine Learning, AI & Blockchain
 - 🌱 I’m currently learning DataScience at Unviversity of Science
 - 💞️ I’m looking for work to get a job as Data Engineer Intern
