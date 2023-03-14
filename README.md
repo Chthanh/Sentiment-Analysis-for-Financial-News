@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chi Thanh
 - 👀 I’m interested in Data Science (DS), Machine Learning, AI & Blockchain
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DataScience at Unviversity of Science
+- 💞️ I’m looking for work to get a job as Data Engineer Intern
 - 📫 How to reach me :mcthanh.data@gmail.com
 
 <!---
