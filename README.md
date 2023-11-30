@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Mai Chi Thanh
-- 👀 I’m interested in Data Science (DS), Machine Learning, AI
-- 🌱 I’m currently learning DataScience at Unviversity of Science
-- 💞️ I’m looking for work to get a job as Data| AI Engineer Intern
-- 📫 How to reach me :mcthanh.data@gmail.com
-
-<!---
-Chthanh/Chthanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The main purpose of this project is to learn and enhance my skills and get experiences. All code in this project I following AI VIETNAM page. This project help me understand more about RNN and techniques used in NLP.
