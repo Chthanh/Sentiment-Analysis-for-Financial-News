@@ -1,1 +1,1 @@
-The main purpose of this project is to learn and enhance my skills and get experiences. All code in this project I following AI VIETNAM page. This project help me understand more about RNN and techniques used in NLP.
+The main purpose of this project is to learn and enhance my skills and get experiences. All code in this project I following AI VIETNAM page. This project help me understand more about RNN, LSTM and techniques used in NLP.
